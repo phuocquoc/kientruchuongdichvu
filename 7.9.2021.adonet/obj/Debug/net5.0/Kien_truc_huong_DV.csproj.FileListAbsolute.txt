@@ -107,7 +107,6 @@ E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\bin\Debug\net5.0\runtimes\
 E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\obj\Debug\net5.0\Kien_truc_huong_DV.csprojAssemblyReference.cache
 E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\obj\Debug\net5.0\Kien_truc_huong_DV.GeneratedMSBuildEditorConfig.editorconfig
 E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\obj\Debug\net5.0\Kien_truc_huong_DV.AssemblyInfoInputs.cache
 E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\obj\Debug\net5.0\Kien_truc_huong_DV.AssemblyInfo.cs
@@ -117,3 +116,4 @@ E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\obj\Debug\net5.0\Kien_truc
 E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\obj\Debug\net5.0\ref\Kien_truc_huong_DV.dll
 E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\obj\Debug\net5.0\Kien_truc_huong_DV.pdb
 E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\obj\Debug\net5.0\Kien_truc_huong_DV.genruntimeconfig.cache
+E:\CNTT\Nam_4\Ki_1\Kien_truc_huong_DV\7.9.2021.adonet\obj\Debug\net5.0\Kien_truc_huong_DV.csproj.AssemblyReference.cache

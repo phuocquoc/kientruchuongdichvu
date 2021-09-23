@@ -6231,7 +6231,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\phuoc\\.nuget\\packages\\": {}
+    "C:\\Users\\Phuoc Quoc Nguyen\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -6239,18 +6239,16 @@
       "projectUniqueName": "E:\\CNTT\\Nam_4\\Ki_1\\Kien_truc_huong_DV\\7.9.2021.adonet\\Kien_truc_huong_DV.csproj",
       "projectName": "Kien_truc_huong_DV",
       "projectPath": "E:\\CNTT\\Nam_4\\Ki_1\\Kien_truc_huong_DV\\7.9.2021.adonet\\Kien_truc_huong_DV.csproj",
-      "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Phuoc Quoc Nguyen\\.nuget\\packages\\",
       "outputPath": "E:\\CNTT\\Nam_4\\Ki_1\\Kien_truc_huong_DV\\7.9.2021.adonet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Phuoc Quoc Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6297,7 +6295,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
